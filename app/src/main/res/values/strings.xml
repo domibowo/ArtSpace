@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string-array name="art_name">
+        <item>Sunset by the Sea</item>
+        <item>Sail The Blue Sea</item>
+        <item>Car Looking for Sunset</item>
+        <item>Sailing Through the Reef</item>
+        <item>Looking the Bridge at Night</item>
+        <item>Abandoned Paradise Island</item>
+        <item>The Edge of The Island</item>
+        <item>Ice Thorns</item>
+        <item>At Dusk in the middle of The Ocean</item>
+        <item>The Breaking of The Frozen Sea</item>
+    </string-array>
+    <string name="author">Anonymous</string>
+    <string name="published_year">2021</string>
+    <string name="next_scene">Next</string>
+    <string name="previous_scene">Previous</string>
+</resources>
